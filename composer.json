@@ -1,6 +1,7 @@
 {
 	"name": "fancyguy/wordpress-headjs",
 	"description": "WordPress Head.JS implementation",
+	"type": "wordpress-plugin",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
